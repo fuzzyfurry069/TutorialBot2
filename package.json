@@ -1,0 +1,30 @@
+{
+  "name": "tutorial-bot",
+  "version": "1.0.0",
+  "description": "This is a Discord.JS v13 tutorial bot!",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "Discord.JS",
+    "Discord",
+    "Tutorial",
+    "Discord.JS"
+  ],
+  "author": "Fuzzy Wilson",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuzzyfurry069/tutorialbot2"
+  },
+  "bugs": {
+    "url": "https://github.com/fuzzyfurry069/tutorialbot2/issues"
+  },
+  "homepage": "https://github.com/fuzzyfurry069/tutorialbot2#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "eslint": "^4.19.1",
+    "eslintrc": "^1.0.6"
+  }
+}
